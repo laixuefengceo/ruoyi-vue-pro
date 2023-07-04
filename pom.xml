@@ -10,7 +10,7 @@
     <modules>
         <module>yudao-dependencies</module>
         <module>yudao-framework</module>
-        <!-- Server 主项目 -->
+        <!-- Server 主项目来雪峰 -->
         <module>yudao-server</module>
         <!-- 各种 module 拓展 -->
         <module>yudao-module-member</module>
